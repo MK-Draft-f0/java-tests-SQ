@@ -1,4 +1,4 @@
-public void myMethod() {
+public void myMethod1107nc() {
   if(something) {
     executeTask();
   } else if (somethingElse) {
