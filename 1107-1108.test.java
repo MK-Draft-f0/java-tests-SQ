@@ -1,7 +1,8 @@
 public void myMethod() {
   if(something) {
     executeTask();
-  } else if (somethingElse) {
+  } 
+  else if (somethingElse) {
     doSomethingElse();
   } else {
      generateError();
